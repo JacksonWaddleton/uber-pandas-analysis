@@ -16,7 +16,7 @@ I answered these questions using the Python pandas package. I used a Jupyter not
   2. Unzip the Zip file to gain access to the .csv that contains our dataset.
   3. Read the .csv into a pandas DataFrame.
   4. Perform some basic data cleansing and transformation, including dropping unneccesary rows, editing column names, changing data types, and identifying columns with missing values.
-  5. Answer our five questions using analytical methods within Python. Some techniqes I used include slicing, DataFrame operations, filtering, grouping, sorting, and datetime operations.
+  5. Answer our five questions using analytical methods within Python. Some techniques I used include slicing, DataFrame operations, filtering, grouping, sorting, and datetime operations.
   6. Create a basic visualization to showcase our answer to Question 4.
 
 After cleaning and analyzing the data, here are the main takeaways and insights gained: 
