@@ -4,11 +4,11 @@ Basic data analysis and visualization using pandas.
 For this project, I used a dataset from Kaggle entitled "Uber Data Analysis🚗 🚕" (link: https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis). The dataset contains information related to specific Uber rides, including their start and end timestamps, starting and ending locations, ride category and purpose, etc.
 
 Upon a brief overview of the data, I formulated the following Uber stakeholder questions to analyze: 
-  Question 1: What are the top 20 most popular starting cities? 
-  Question 2: Which five starting cities have the highest average ride length? 
-  Question 3: What is the average speed of each ride in miles per hour? 
-  Question 4: How does the average miles per hour compare among ride purposes?
-  Question 5: What percentage of business rides start and stop in the same city?
+  1. What are the top 20 most popular starting cities?
+  2. Which five starting cities have the highest average ride length?
+  3. What is the average speed of each ride in miles per hour?
+  4. How does the average miles per hour compare among ride purposes?
+  5. What percentage of business rides start and stop in the same city?
 
 I answered these questions using the Python pandas package. I used a Jupyter notebook as the coding environment. The general workflow is as follows: 
   1. Download the Kaggle Zip file for the dataset.
