@@ -1,7 +1,7 @@
 # uber-pandas-analysis
 Basic data analysis and visualization using pandas. 
 
-For this project, I used a dataset from Kaggle entitled "Uber Data Analysis🚗 🚕" (link: https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis). The dataset contains columns related to specific Uber rides, including their start and end timestamps, starting and ending locations, ride category and purpose, etc.
+For this project, I used a dataset from Kaggle entitled "Uber Data Analysis🚗 🚕" (link: https://www.kaggle.com/datasets/bhanupratapbiswas/uber-data-analysis). The dataset contains information related to specific Uber rides, including their start and end timestamps, starting and ending locations, ride category and purpose, etc.
 
 Upon a brief overview of the data, I formulated the following Uber stakeholder questions to analyze: 
   Question 1: What are the top 20 most popular starting cities? 
